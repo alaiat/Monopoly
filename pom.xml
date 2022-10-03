@@ -39,8 +39,8 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <properties>
 				<maven.compiler.target>1.8</maven.compiler.target>
 				<maven.compiler.source>1.8</maven.compiler.source>
-				<sonar.organization>alaiat </sonar.organization>
-				<sonar.host.url>https://sonarcloud.io</sonar.host.url>		
+				<sonar.organization>alaiat</sonar.organization>
+  				<sonar.host.url>https://sonarcloud.io</sonar.host.url>	
 				<sonar.projectKey>alaiat_Monopoly</sonar.projectKey>		
 				<sonar.login>ee5d606efcfb135449da03f5809cdfae17dd9995</sonar.login>
 </properties>
